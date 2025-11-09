@@ -66,9 +66,9 @@ export default function Contact() {
   }
 
   const contactLinks = [
-    { icon: Mail, label: "Email", href: "mailto:vaneet@example.com", value: "+917696935319" },
+    { icon: Mail, label: "Email", href: "mailto:shahvaneet@gmail.com", value: "shahvaneet@gmail.com" },
     { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/vaneet-shah/", value: "Vaneet Profile" },
-    { icon: Github, label: "GitHub", href: "https://github.com/vaneet", value: "GitHub" },
+    { icon: Github, label: "GitHub", href: "https://github.com/vaneet2004", value: "GitHub" },
   ]
 
   return (
